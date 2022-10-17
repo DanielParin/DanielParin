@@ -27,7 +27,13 @@ en estos momentos estoy iniciandome en  el Lenguaje de **Kotlin**.
 
 ![gif](https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47umws0jsygroqh93nnn602quwccukxl8a198cwfug&rid=giphy.gif&ct=g)
 
-# Contáctame👍🏼
+<p align="center">
+ Contáctame👍🏼
+</p>
 
-
+<p align="center">
+<a href="https://github.com/DanielParin">
+ <img src="./Images/octocat.jpg" width=15%/>
+ </a>
+</p>
 
