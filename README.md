@@ -33,7 +33,7 @@ en estos momentos estoy iniciandome en  el Lenguaje de **Kotlin**.
 
 <p align="center">
 <a href="https://github.com/DanielParin">
- <img src="./Images/octocat.jpg" width=15%/>
+ <img src="./Images/octocat.jpg" width=40%/>
  </a>
 </p>
 
