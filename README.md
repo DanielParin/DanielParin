@@ -7,11 +7,12 @@ de Desarrollo en aplicaciones multiplataforma, en el centro Luis Vives
 de Leganés.
 
 En mis repositorios podrás encontrar desde ejercicios realizados en 
-clase como futuros. Puedes usarlos como
-ayuda para el aprendizaje Kotlin o Java, por los múltiples comentarios que hay implementados, que pueden servirte de ayuda.
+clase como futuros proyectos. Puedes usarlos como
+ayuda para el aprendizaje Kotlin o Java, por los múltiples comentarios que hay implementados.
 
 Como metas personales me gustaría saber más sobre conceptos como la 
-Inteligencia Artificial o la ciberseguridad.
+Inteligencia Artificial o la ciberseguridad.También me gustaría ser un programador full stack, para poder desarrollar todo tipo de aplicaciones o software.
+
 
 
 
