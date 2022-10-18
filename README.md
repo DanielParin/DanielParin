@@ -1,4 +1,6 @@
-![imagen](https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled.jpg )
+<a href="https://github.com/DanielParin">
+ <img src="./Images/baner.jpg" />
+ </a>
 
 # Hola, soy Daniel! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ## Sobre mí:
@@ -12,8 +14,6 @@ ayuda para el aprendizaje Kotlin o Java, por los múltiples comentarios que hay 
 
 Como metas personales me gustaría saber más sobre conceptos como la 
 Inteligencia Artificial o la ciberseguridad.También me gustaría ser un programador full stack, para poder desarrollar todo tipo de aplicaciones o software.
-
-
 
 
 
