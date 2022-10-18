@@ -51,7 +51,7 @@ height="30">
  ---
 
 
-[![DanielinPar's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielParin)](https://github.com/anuraghazra/github-readme-stats)
+[![DanielinPar's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielParin)](https://github.com/DanielParin/github-readme-stats)
 
 
 
