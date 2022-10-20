@@ -61,7 +61,7 @@ height="35">
   height="30">IntelIJ que uso para programar en Kotlin y Java.
 
    <img loading="lazy" src="https://distreau.com/github.svg" 
-  height="30">Github para ver mis repositorios remotos y el del resto de usuarios.
+  height="30">Github para ver mis repositorios remotos y los del resto de usuarios.
 
   <img loading="lazy" src="https://materiageek.com/wp-content/uploads/2020/10/GitKraken-7.4.0-Descargar-gratis.png"
   height="30">Gitkraken para modificar los cambios en ramas y posteriormente subirlo a Github.
