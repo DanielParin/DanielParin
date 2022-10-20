@@ -91,4 +91,5 @@ height="30">VS Code que empleo a la hora de usar nomenclaturas JavaScript o Mark
     height="50">
 </a>
 
-
+---
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/dbd7c920-4e67-4f84-a5c2-c032a792f2cb.png" /></a>
