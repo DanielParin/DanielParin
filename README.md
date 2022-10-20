@@ -92,4 +92,10 @@ height="30">VS Code que empleo a la hora de usar nomenclaturas JavaScript o Mark
 </a>
 
 ---
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/dbd7c920-4e67-4f84-a5c2-c032a792f2cb.png" /></a>
+<p align ="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/dbd7c920-4e67-4f84-a5c2-c032a792f2cb.png" height="350" /></a>
+</p>
+
+<p align ="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/212b9ce3-5ae2-4718-ab4f-90e0ec1a0e05.png" height="350" /></a> 
+</p>
