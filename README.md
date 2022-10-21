@@ -78,14 +78,10 @@ height="30">VS Code que empleo a la hora de usar nomenclaturas JavaScript o Mark
 ---
 
  <h2><p align="center"> Contáctame👍🏼 </p></h2>
- <h4><p align="left">  * Github * </p></h4>
+<p align="center">
 <a href="https://github.com/DanielParin">
  <img src="./Images/octocat.jpg" width=13%/>
- </a>
-
-<p align="left">  * Linkedn * </p>
-
-<p>
+ </a></p> <p align="center">
 <a href="https://www.linkedin.com/in/daniel-paz-833602251/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50">
