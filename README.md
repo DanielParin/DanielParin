@@ -88,7 +88,7 @@ height="30">VS Code que empleo a la hora de usar nomenclaturas JavaScript o Mark
 </a>
 
 ---
-<p align="center"> <img src=https://profile-counter.glitch.me/DanielParin/count.svg/%3E </p>
+<p align="center"> <img src=https://profile-counter.glitch.me/DanielParin/count.svg </p>
 
 <p align ="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/1731e29a-5a50-4c96-a6a2-930b2d601da1.svg" height="350" /></a>
