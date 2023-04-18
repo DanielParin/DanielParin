@@ -13,24 +13,29 @@ clase como futuros proyectos. Puedes usarlos como
 ayuda para el aprendizaje Kotlin o Java, por los múltiples comentarios que hay implementados.
 
 Como metas personales me gustaría saber más sobre conceptos como la 
-Inteligencia Artificial o la ciberseguridad.También me gustaría ser un programador full stack, para poder desarrollar todo tipo de aplicaciones o software.
+Inteligencia Artificial o la Ciberseguridad, y sobretodo BigData, concepto sobre el que me gustaría saber mucho ya que los datos son el futuro. También me gustaría ser un programador full stack, para poder desarrollar todo tipo de aplicaciones o software.
 
 
 
 
 ---
 
+<div align="center">
 
 ![gif](https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47umws0jsygroqh93nnn602quwccukxl8a198cwfug&rid=giphy.gif&ct=g)
 
+</div>
 
 
 ## Conocimientos
 
-Tengo conocimientos en lenguajes de programación: **C** y **Java** y
-en estos momentos estoy iniciándome en  el Lenguaje de **Kotlin**.
+Tengo conocimientos en lenguajes de programación: **C**,**Java** y **Kotlin**.
 
  Además, tengo nociones basicas de **SQL** y **Markdown** que iré ampliando y afianzando durante los próximos meses.
+
+ Respecto a **HTML**, **CSS** y **JavaScript** me queda mucho por aprender pero espero dominarlos a la perfección en un tiempo.
+
+ De cara al futuro me gustaría dominar también los lenguajes de **Python**, **C#**, **Swift** y **Ruby**.
  
  <p align="center">
 <img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
@@ -55,37 +60,37 @@ height="35">
 
 <details>
 <h2><summary>Tecnologías con las que trabajo</summary></h2>
+<br>
 
 <p align="left">
  <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
-  height="30">IntelIJ que uso para programar en Kotlin y Java.
+  height="30">  IntelIJ que uso para programar en Kotlin y Java.
 
    <img loading="lazy" src="https://distreau.com/github.svg" 
-  height="30">Github para ver mis repositorios remotos y los del resto de usuarios.
+  height="30"> Github para ver mis repositorios remotos y los del resto de usuarios.
 
   <img loading="lazy" src="https://materiageek.com/wp-content/uploads/2020/10/GitKraken-7.4.0-Descargar-gratis.png"
-  height="30">Gitkraken para modificar los cambios en ramas y posteriormente subirlo a Github.
+  height="30"> Gitkraken para modificar los cambios en ramas y posteriormente subirlo a Github.
 
 <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
-height="30">VS Code que empleo a la hora de usar nomenclaturas JavaScript o Markdown.
+height="30"> VS Code que empleo a la hora de usar nomenclaturas JavaScript o Markdown.
 
 <img loading="lazy" src="https://xml-copy-editor.sourceforge.io/custom.jpg" height="30"> XML Copy Editor para la edición de ficheros XML.
 
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Breezeicons-apps-48-codeblocks.svg/48px-Breezeicons-apps-48-codeblocks.svg.png?20190217125539" height="35">Codeblocks para la programación en C/C++.
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Breezeicons-apps-48-codeblocks.svg/48px-Breezeicons-apps-48-codeblocks.svg.png?20190217125539" height="35"> Codeblocks para la programación en C/C++.
 
 </details>
 
 ---
 
  <h2><p align="center"> Contáctame👍🏼 </p></h2>
-<p align="center">
-<a href="https://github.com/DanielParin">
- <img src="./Images/octocat.jpg" width=13%/>
- </a></p> <p align="center">
-<a href="https://www.linkedin.com/in/daniel-paz-833602251/" target="_blank">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-    height="50">
-</a>
+<div align="center">
+
+  Email📩: **danielpazrincon.w@gmail.com**
+  
+  Linkedn📜: <a href="https://www.linkedin.com/in/daniel-paz-833602251/">Daniel Paz</a>
+
+</div>
 
 ---
 <p align="center"> <img src=https://profile-counter.glitch.me/DanielParin/count.svg </p>
