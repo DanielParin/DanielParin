@@ -1,21 +1,21 @@
-<a href="https://github.com/DanielParin">
- <img src="./Images/baner.jpg" />
- </a>
+<div align="center">
+  <a href="https://github.com/DanielParin">
+  <img src="./Images/Banner.jpg" />
+  </a>
+ </div>
 
 # Hola, soy Daniel! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ## Sobre mí:
-Actualmente , soy estudiante de primero en el ciclo de grado superior
-de Desarrollo en aplicaciones multiplataforma, en el centro Luis Vives
+Actualmente , soy estudiante de segundo en el ciclo de grado superior
+de *Desarrollo en aplicaciones multiplataforma*, en el centro Luis Vives
 de Leganés.
 
-En mis repositorios podrás encontrar desde ejercicios realizados en 
-clase como futuros proyectos. Puedes usarlos como
-ayuda para el aprendizaje Kotlin o Java, por los múltiples comentarios que hay implementados.
+En mis repositorios podrás encontrar desde ejercicios realizados en clase como futuros proyectos. Puedes usarlos como
+ayuda para el aprendizaje de diversos lenguajes, por los múltiples comentarios que hay implementados.
 
 Como metas personales me gustaría saber más sobre conceptos como la 
-Inteligencia Artificial o la Ciberseguridad, y sobretodo BigData, concepto sobre el que me gustaría saber mucho ya que los datos son el futuro. También me gustaría ser un programador full stack, para poder desarrollar todo tipo de aplicaciones o software.
-
-
+ la Ciberseguridad y sobretodo BigData. El BigData es un concepto sobre el cual me gustaría especializarme e investigar debido a que me parece muy útil y 
+ con una salida laboral muy extensa.
 
 
 ---
@@ -27,59 +27,19 @@ Inteligencia Artificial o la Ciberseguridad, y sobretodo BigData, concepto sobre
 </div>
 
 
-## Conocimientos
-
-Tengo conocimientos en lenguajes de programación: **C**,**Java** y **Kotlin**.
-
- Además, tengo nociones basicas de **SQL** y **Markdown** que iré ampliando y afianzando durante los próximos meses.
-
- Respecto a **HTML**, **CSS** y **JavaScript** me queda mucho por aprender pero espero dominarlos a la perfección en un tiempo.
-
- De cara al futuro me gustaría dominar también los lenguajes de **Python**, **C#**, **Swift** y **Ruby**.
- 
- <p align="center">
-<img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
-height="25">
-<img loading="lazy" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" 
-height="30">
-<img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
-height="30">
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" 
-height="30">
-<img loading="lazy" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" 
-height="30">
-<img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/c.svg" 
-height="30">
-<img loading="lazy" src="https://www.svgrepo.com/show/373848/mysql.svg" 
-height="30">
-<img loading="lazy" src="https://www.svgrepo.com/show/344277/markdown-fill.svg" 
-height="35">
-</p>
+## Tecnologías
 
 
+| Ámbito | Teconología |
+| -- | -- |
+| Desarrolo | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| Desarrollo Web | ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| Frameworks | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9) ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Laravel]( 	https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | 
+| Bases de datos | ![Sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white) ![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) |
+| Otros | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Virtualvox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) ![AndridStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Sonar](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)  |
+| Sistemas Operativos | ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
 
-<details>
-<h2><summary>Tecnologías con las que trabajo</summary></h2>
-<br>
 
-<p align="left">
- <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
-  height="30">  IntelIJ que uso para programar en Kotlin y Java.
-
-   <img loading="lazy" src="https://distreau.com/github.svg" 
-  height="30"> Github para ver mis repositorios remotos y los del resto de usuarios.
-
-  <img loading="lazy" src="https://materiageek.com/wp-content/uploads/2020/10/GitKraken-7.4.0-Descargar-gratis.png"
-  height="30"> Gitkraken para modificar los cambios en ramas y posteriormente subirlo a Github.
-
-<img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
-height="30"> VS Code que empleo a la hora de usar nomenclaturas JavaScript o Markdown.
-
-<img loading="lazy" src="https://xml-copy-editor.sourceforge.io/custom.jpg" height="30"> XML Copy Editor para la edición de ficheros XML.
-
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Breezeicons-apps-48-codeblocks.svg/48px-Breezeicons-apps-48-codeblocks.svg.png?20190217125539" height="35"> Codeblocks para la programación en C/C++.
-
-</details>
 
 ---
 
