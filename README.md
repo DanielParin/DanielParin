@@ -22,7 +22,7 @@ Como metas personales me gustaría saber más sobre conceptos como
  la Ciberseguridad y sobretodo BigData. El BigData es un concepto sobre el cual me gustaría especializarme e investigar debido a que me parece muy útil y
  con una salida laboral muy extensa.
 
-Aparte me gustaría especialiarme en el desarrollo de software, en especial de APIs, usando el lenguaje de Go. El lenguaje de Go es un lenguaje que desde el primer momento que lo usé me cautivó y empecé a indagar sobre él por cuenta propia y poco a poco lo voy dominando.
+Aparte me gustaría especialiarme en el desarrollo de software, en especial de APIs, usando el lenguaje de Go. Go es un lenguaje que desde el primer momento que lo usé me cautivó y empecé a indagar sobre él por cuenta propia y poco a poco lo voy dominando.
 
 ---
 
