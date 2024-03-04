@@ -55,12 +55,14 @@ Aparte me gustaría especialiarme en el desarrollo de software, en especial de A
 </div>
 
 ---
+
+## Estadísticas
 <p align="center"> <img src=https://profile-counter.glitch.me/DanielParin/count.svg </p>
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielParin&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#DanielParin" />
 
 <p align ="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/1731e29a-5a50-4c96-a6a2-930b2d601da1.svg" height="350" /></a>
 </p>
 
-<p align ="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/6faefe95-8ade-4b3a-a4a4-07d435799310.svg" height="350" /></a> 
-</p>
