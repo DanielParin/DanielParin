@@ -50,7 +50,7 @@ Aparte me gustaría especialiarme en el desarrollo de software, en especial de A
 
   Email📩: **danielpazrincon.w@gmail.com**
   
-  Linkedn📜: <a href="www.linkedin.com/in/daniel-paz-rincón">Daniel Paz</a>
+  Linkedn📜: <a href="https://www.linkedin.com/in/daniel-paz-rinc%C3%B3n/">Daniel Paz</a>
 
 </div>
 
