@@ -64,7 +64,8 @@ Aparte me gustaría especialiarme en el desarrollo de software, en especial de A
 
 <p align ="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/1731e29a-5a50-4c96-a6a2-930b2d601da1.svg" height="350" /></a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielparin&theme=ocean_dark&show_icons=true)
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ocean_dark&show_icons=true)
+
 
