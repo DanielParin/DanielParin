@@ -67,5 +67,5 @@ Aparte me gustaría especialiarme en el desarrollo de software, en especial de A
 </p>
 
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielparin&theme=ocean_dark&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielParin&theme=ocean_dark&show_icons=true)
 </p>
