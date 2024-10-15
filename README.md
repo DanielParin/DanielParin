@@ -28,9 +28,9 @@ My main interest is software development in Java, as I believe it is the languag
 
 Other more specific interests include:
 
-- API development with Go.
-- Data analysis with Python.
-- Desktop application development with JavaFX.
+- API development with Go. 📨
+- Data analysis with Python. 💽
+- Desktop application development with JavaFX. 🖥️
 
 <br>
 
