@@ -79,11 +79,13 @@ All of this is subject to change at any time as I enjoy exploring or studying ne
     </table>
 </div>
 
-
+<br>
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielParin&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#DanielParin" />
 
 <br>
 <br>
+<br>
+
 <p align="center"><img src=https://profile-counter.glitch.me/DanielParin/count.svg </p>
