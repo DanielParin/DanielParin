@@ -10,21 +10,18 @@
 # Hello, I'm Daniel! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </div>
 
-## About Me
+## About Me 💾
 
 Currently, I am a second-year student in the higher degree of Cross-platform Software Development at IES Luis Vives in Leganés.
 
-I am a sociable person who doesn’t hesitate to lend a hand whenever I can, which is why I love creating educational content where
-I teach a topic from scratch using language that anyone can understand.
-
-I also enjoy working on personal projects that, although they may not be large, help solve small tasks. Generally, I work
+I  enjoy working on educational and personal projects that, although they may not be large, help solve small tasks. Generally, I work
  with technologies that can be used in Linux operating systems, which is what I work with and would like to be involved in.
 
-## ¿What can you find in my repositories?
+## What can you find in my repositories ⁉️
 
 Mainly, you can find educational repositories dedicated to beginners in programming, but you will also see academic and personal projects.
 
-## Interests
+## Interests ⭐
 
 My main interest is software development in Java, as I believe it is the language in which I have the most experience,
  regardless of the type of software.
