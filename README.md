@@ -10,7 +10,8 @@
 # Hello, I'm Daniel! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </div>
 
-## About Me:
+## About Me
+
 Currently, I am a second-year student in the higher degree of Cross-platform Software Development at IES Luis Vives in Leganés.
 
 I am a sociable person who doesn’t hesitate to lend a hand whenever I can, which is why I love creating educational content where
@@ -20,9 +21,11 @@ I also enjoy working on personal projects that, although they may not be large, 
  with technologies that can be used in Linux operating systems, which is what I work with and would like to be involved in.
 
 ## ¿What can you find in my repositories?
+
 Mainly, you can find educational repositories dedicated to beginners in programming, but you will also see academic and personal projects.
 
-## Interests:
+## Interests
+
 My main interest is software development in Java, as I believe it is the language in which I have the most experience,
  regardless of the type of software.
 
@@ -32,17 +35,16 @@ Other more specific interests include:
 - Data analysis with Python.
 - Desktop application development with JavaFX.
 
-\\
+<br>
 
 All of this is subject to change at any time as I enjoy exploring or studying new technologies.
 
-\\
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielparin&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" />
 </div>
-
-\\
+<br>
 
 ## Technologies
 
@@ -57,17 +59,16 @@ All of this is subject to change at any time as I enjoy exploring or studying ne
 
 ---
 
-### Contact Me:
+### Contact Me
+
 <div style="text-align: justify;">
     <p>Email📩: <strong>danielpazrincon.w@gmail.com</strong></p>
     <p>LinkedIn📜: <a href="https://www.linkedin.com/in/daniel-paz-rinc%C3%B3n/">Daniel Paz</a></p>
 </div>
 
-
 ---
 
 ## Statistics
-<p align="center"> <img src=https://profile-counter.glitch.me/DanielParin/count.svg </p>
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielParin&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#DanielParin" />
@@ -75,3 +76,7 @@ All of this is subject to change at any time as I enjoy exploring or studying ne
 <p align ="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/1731e29a-5a50-4c96-a6a2-930b2d601da1.svg" height="350" /></a>
 </p>
+
+<br>
+<br>
+<p align="center"><img src=https://profile-counter.glitch.me/DanielParin/count.svg </p>
