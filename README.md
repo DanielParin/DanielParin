@@ -60,7 +60,7 @@ All of this is subject to change at any time as I enjoy exploring or studying ne
 
 <div style="text-align: justify;">
     <p>Email📩: <strong>danielpazrincon.w@gmail.com</strong></p>
-    <p>LinkedIn📜: <a href="https://www.linkedin.com/in/daniel-paz-rinc%C3%B3n/">Daniel Paz</a></p>
+    <p>LinkedIn📜: <a href="www.linkedin.com/in/daniel-paz-rincon">Daniel Paz</a></p>
 </div>
 
 ---
