@@ -67,15 +67,18 @@ All of this is subject to change at any time as I enjoy exploring or studying ne
 
 ## Statistics
 
-<table style="margin: auto;">
-    <tr>
-        <td style="text-align: center;">
-            <a href="https://wakatime.com">
-                <img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/1731e29a-5a50-4c96-a6a2-930b2d601da1.svg" height="350" />
-            </a>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <a href="https://wakatime.com">
+                    <img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/1731e29a-5a50-4c96-a6a2-930b2d601da1.svg" height="350" />
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
 
 
 <p align="center">
