@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DanielParin">
-  <img src="./Images/Banner.jpg" />
+  <img src="./Images/BannerGithub.jpg" />
   </a>
  </div>
 <br><br>
