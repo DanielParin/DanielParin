@@ -43,7 +43,7 @@ All of this is subject to change at any time as I enjoy exploring or studying ne
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielparin&theme=vue-dark&show_icons=true" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielparin&theme=vue-dark&show_icons=true" alt="Daniel Paz's GitHub stats" />
 </div>
 <br>
 
