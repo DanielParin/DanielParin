@@ -6,7 +6,7 @@
 <br><br>
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=873AF7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hello%2C+I'm+Daniel!)](https://git.io/typing-svg)
 </div>
 
@@ -20,6 +20,8 @@ I  enjoy working on educational and personal projects that, although they may no
 ## What can you find in my repositories ⁉️
 
 Mainly, you can find educational repositories dedicated to beginners in programming, but you will also see academic and personal projects.
+
+<p align="left"><img src=https://profile-counter.glitch.me/DanielParin/count.svg></p>
 
 ## Interests ⭐
 
@@ -87,5 +89,3 @@ All of this is subject to change at any time as I enjoy exploring or studying ne
 <br>
 <br>
 <br>
-
-<p align="center"><img src=https://profile-counter.glitch.me/DanielParin/count.svg </p>
