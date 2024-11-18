@@ -21,6 +21,8 @@ I  enjoy working on educational and personal projects that, although they may no
 
 Mainly, you can find educational repositories dedicated to beginners in programming, but you will also see academic and personal projects.
 
+<br>
+
 <p align="left"><img src=https://profile-counter.glitch.me/DanielParin/count.svg></p>
 
 ## Interests ⭐
