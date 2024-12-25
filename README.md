@@ -47,6 +47,7 @@ I currently use EndeavourOS, which is a distribution based on Arch Linux; howeve
 because I feel more comfortable with it, as I can customize it more, and every day I get more used to using commands rather than the graphical interface. 
 I hope to continue improving my Linux skills without neglecting Windows
 <br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielparin&theme=vue-dark&show_icons=true" alt="Daniel Paz's GitHub stats" />
