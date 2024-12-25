@@ -41,16 +41,16 @@ All of this is subject to change at any time as I enjoy exploring or studying ne
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielparin&theme=vue-dark&show_icons=true" alt="Daniel Paz's GitHub stats" />
-</div>
-<br>
-
 ## Operating systems 💽
 
 I currently use EndeavourOS, which is a distribution based on Arch Linux; however, I also use Windows. I prefer using Linux over Windows 
 because I feel more comfortable with it, as I can customize it more, and every day I get more used to using commands rather than the graphical interface. 
 I hope to continue improving my Linux skills without neglecting Windows
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielparin&theme=vue-dark&show_icons=true" alt="Daniel Paz's GitHub stats" />
+</div>
 <br>
 
 ## Technologies
