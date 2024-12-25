@@ -10,8 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=873AF7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hello%2C+I'm+Daniel!)](https://git.io/typing-svg)
 </div>
 
-## About Me 💾
-
+## About Me 🌐
 Currently, I am a second-year student in the higher degree of Cross-platform Software Development at IES Luis Vives in Leganés.
 
 I  enjoy working on educational and personal projects that, although they may not be large, help solve small tasks. Generally, I work
@@ -33,7 +32,7 @@ My main interest is software development in Java, as I believe it is the languag
 Other more specific interests include:
 
 - API development with Go. 📨
-- Data analysis with Python. 💽
+- Data analysis with Python. 📊
 - Desktop application development with JavaFX. 🖥️
 
 <br>
@@ -45,6 +44,13 @@ All of this is subject to change at any time as I enjoy exploring or studying ne
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielparin&theme=vue-dark&show_icons=true" alt="Daniel Paz's GitHub stats" />
 </div>
+<br>
+
+## Operating systems 💽
+
+I currently use EndeavourOS, which is a distribution based on Arch Linux; however, I also use Windows. I prefer using Linux over Windows 
+because I feel more comfortable with it, as I can customize it more, and every day I get more used to using commands rather than the graphical interface. 
+I hope to continue improving my Linux skills without neglecting Windows
 <br>
 
 ## Technologies
