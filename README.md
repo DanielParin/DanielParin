@@ -11,7 +11,7 @@
 </div>
 
 ## About Me 🌐
-Currently, I am a second-year student in the higher degree of Cross-platform Software Development at IES Luis Vives in Leganés.
+Currently, I am a FulStack Developer for NEORIS.
 
 I  enjoy working on educational and personal projects that, although they may not be large, help solve small tasks. Generally, I work
  with technologies that can be used in Linux operating systems, which is what I work with and would like to be involved in.
