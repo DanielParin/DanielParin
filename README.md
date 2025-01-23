@@ -22,7 +22,7 @@ Mainly, you can find educational repositories dedicated to beginners in programm
 
 <br>
 
-<p align="left"><img src=https://profile-counter.glitch.me/DanielParin/count.svg></p>
+![Visits](https://komarev.com/ghpvc/?username=danielparin&color=blueviolet&style=plastic&abbreviated=true&base=1815)
 
 ## Interests ⭐
 
