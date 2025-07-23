@@ -79,7 +79,7 @@ I hope to continue improving my Linux skills without neglecting Windows
 ## Statistics
 
 <p align="center">
-  <img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/1e092b7a-2c38-4827-9233-1db6b9a13a28.svg" alt="WakaTime Stats" width="350"/>
+  <img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/1e092b7a-2c38-4827-9233-1db6b9a13a28.svg" alt="WakaTime Stats" width="400"/>
 </p>
 
 <br>
