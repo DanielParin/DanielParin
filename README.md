@@ -82,9 +82,7 @@ I hope to continue improving my Linux skills without neglecting Windows
     <table>
         <tr>
             <td>
-                <a href="https://wakatime.com">
-                    <img src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/1731e29a-5a50-4c96-a6a2-930b2d601da1.svg" height="350" />
-                </a>
+                <figure><embed src="https://wakatime.com/share/@304a5ba2-078f-45e9-a898-1a691a3e493a/1e092b7a-2c38-4827-9233-1db6b9a13a28.svg"></embed></figure>
             </td>
         </tr>
     </table>
