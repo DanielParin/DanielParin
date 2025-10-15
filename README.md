@@ -69,10 +69,9 @@ I hope to continue improving my Linux skills without neglecting Windows
 
 ### Contact Me
 
-<div style="text-align: justify;">
-    <p><h4>📩 Email:</h4><br> <strong>danielpazrincon.w@gmail.com</strong></p>
-    <p><h4>📜 LinkedIn:</h4><br><a href="https://www.linkedin.com/in/daniel-paz-rincon/" target="_blank">Daniel Paz</a></p>
-</div>
+  📩 Email:**danielpazrincon.w@gmail.com**
+  📜 LinkedIn:<a href="https://www.linkedin.com/in/daniel-paz-rincon/" target="_blank">Daniel Paz</a>
+
 
 ---
 
@@ -90,3 +89,4 @@ I hope to continue improving my Linux skills without neglecting Windows
 <br>
 <br>
 <br>
+
