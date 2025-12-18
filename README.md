@@ -11,7 +11,7 @@
 </div>
 
 ## About Me 🌐
-Currently, I am a FullStack Developer for NEORIS.
+Currently, I am a FullStack Developer for MINSAIT.
 
 I  enjoy working on educational and personal projects that, although they may not be large, help solve small tasks. Generally, I work
  with technologies that can be used in Linux operating systems, which is what I work with and would like to be involved in.
@@ -90,6 +90,7 @@ I hope to continue improving my Linux skills without neglecting Windows
 <br>
 <br>
 <br>
+
 
 
 
